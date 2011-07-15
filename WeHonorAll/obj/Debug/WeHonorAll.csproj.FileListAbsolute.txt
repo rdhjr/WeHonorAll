@@ -1,0 +1,7 @@
+C:\Projects\WeHonorAll\WeHonorAll\bin\WeHonorAll.dll
+C:\Projects\WeHonorAll\WeHonorAll\bin\WeHonorAll.pdb
+C:\Projects\WeHonorAll\WeHonorAll\bin\EntityFramework.dll
+C:\Projects\WeHonorAll\WeHonorAll\bin\EntityFramework.xml
+C:\Projects\WeHonorAll\WeHonorAll\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WeHonorAll\WeHonorAll\obj\Debug\WeHonorAll.dll
+C:\Projects\WeHonorAll\WeHonorAll\obj\Debug\WeHonorAll.pdb
